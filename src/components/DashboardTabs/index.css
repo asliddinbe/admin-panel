@@ -1,0 +1,11 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+.tab {
+	border-bottom: 0;
+}
+.tab:active {
+	border: 1px solid #000;
+}
